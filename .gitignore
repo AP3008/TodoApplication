@@ -14,6 +14,7 @@ target/
 .sts4-cache
 
 mvnw
+.mvn/
 mvnw.cmd
 .DS_Store
 ### IntelliJ IDEA ###
